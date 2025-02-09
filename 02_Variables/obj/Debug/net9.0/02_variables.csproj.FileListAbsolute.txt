@@ -1,0 +1,14 @@
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\bin\Debug\net9.0\02_variables.exe
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\bin\Debug\net9.0\02_variables.deps.json
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\bin\Debug\net9.0\02_variables.runtimeconfig.json
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\bin\Debug\net9.0\02_variables.dll
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\bin\Debug\net9.0\02_variables.pdb
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\obj\Debug\net9.0\02_variables.GeneratedMSBuildEditorConfig.editorconfig
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\obj\Debug\net9.0\02_variables.AssemblyInfoInputs.cache
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\obj\Debug\net9.0\02_variables.AssemblyInfo.cs
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\obj\Debug\net9.0\02_variables.csproj.CoreCompileInputs.cache
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\obj\Debug\net9.0\02_variables.dll
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\obj\Debug\net9.0\refint\02_variables.dll
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\obj\Debug\net9.0\02_variables.pdb
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\obj\Debug\net9.0\02_variables.genruntimeconfig.cache
+F:\WEB TASARIM\Website\BackEnd\.Net Core\CSharp_Education\02_variables\obj\Debug\net9.0\ref\02_variables.dll
