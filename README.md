@@ -1,1 +1,1 @@
-String and Number variables 
+String and Number variables = M.Yucedag Education
